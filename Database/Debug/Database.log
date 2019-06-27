@@ -1,0 +1,22 @@
+﻿  Database.cpp
+  Tables.cpp
+e:\uni stuff\1 year\oop\database\database\tables.cpp(18): warning C4018: '<': signed/unsigned mismatch
+e:\uni stuff\1 year\oop\database\database\tables.cpp(29): warning C4018: '<': signed/unsigned mismatch
+e:\uni stuff\1 year\oop\database\database\tables.cpp(32): warning C4018: '<': signed/unsigned mismatch
+e:\uni stuff\1 year\oop\database\database\tables.cpp(55): warning C4018: '<': signed/unsigned mismatch
+e:\uni stuff\1 year\oop\database\database\tables.cpp(65): warning C4018: '<': signed/unsigned mismatch
+e:\uni stuff\1 year\oop\database\database\vector.h(58): warning C4018: '<': signed/unsigned mismatch
+  e:\uni stuff\1 year\oop\database\database\vector.h(54): note: while compiling class template member function 'void Vector<Value *>::copy(const Vector<Value *> &)'
+  e:\uni stuff\1 year\oop\database\database\vector.h(82): note: see reference to function template instantiation 'void Vector<Value *>::copy(const Vector<Value *> &)' being compiled
+  e:\uni stuff\1 year\oop\database\database\vector.h(81): note: while compiling class template member function 'Vector<Value *>::Vector(const Vector<Value *> &)'
+  e:\uni stuff\1 year\oop\database\database\tables.cpp(45): note: see reference to function template instantiation 'Vector<Value *>::Vector(const Vector<Value *> &)' being compiled
+  e:\uni stuff\1 year\oop\database\database\row.h(7): note: see reference to class template instantiation 'Vector<Value *>' being compiled
+e:\uni stuff\1 year\oop\database\database\vector.h(72): warning C4018: '<': signed/unsigned mismatch
+  e:\uni stuff\1 year\oop\database\database\vector.h(69): note: while compiling class template member function 'void Vector<Value *>::resize(void)'
+  e:\uni stuff\1 year\oop\database\database\vector.h(107): note: see reference to function template instantiation 'void Vector<Value *>::resize(void)' being compiled
+  Generating Code...
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Table>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Column *>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Row>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Value *>::operator[]': not all control paths return a value
+  Database.vcxproj -> E:\Uni Stuff\1 year\OOP\Database\Debug\Database.exe

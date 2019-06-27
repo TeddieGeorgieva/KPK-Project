@@ -1,0 +1,11 @@
+people
+4
+name String
+age Int
+money Fractional
+lastname String
+4
+gosho 20 20.00 NULL 
+pesho 21 21.00 NULL 
+tosho 22 22.00 NULL 
+gosho 22 20.00 NULL 

@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  Column.cpp
+  ColumnString.cpp
+  Database.cpp
+  FractionalNum.cpp
+  FractionalValue.cpp
+  Int.cpp
+  IntValue.cpp
+  Row.cpp
+  String.cpp
+  StringValue.cpp
+  Table.cpp
+e:\uni stuff\1 year\oop\database\database\table.cpp(26): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Tables.cpp
+e:\uni stuff\1 year\oop\database\database\tables.cpp(99): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+e:\uni stuff\1 year\oop\database\database\tables.cpp(112): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+e:\uni stuff\1 year\oop\database\database\tables.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+e:\uni stuff\1 year\oop\database\database\tables.cpp(153): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+e:\uni stuff\1 year\oop\database\database\tables.cpp(157): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+e:\uni stuff\1 year\oop\database\database\tables.cpp(191): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  Value.cpp
+  Generating Code...
+e:\uni stuff\1 year\oop\database\database\value.cpp(24): warning C4715: 'Value::factory': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Table>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Column *>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Row>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Value *>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Value *>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Column *>::operator[]': not all control paths return a value
+e:\uni stuff\1 year\oop\database\database\vector.h(168): warning C4715: 'Vector<Row>::operator[]': not all control paths return a value
+  Database.vcxproj -> E:\Uni Stuff\1 year\OOP\Database\x64\Debug\Database.exe

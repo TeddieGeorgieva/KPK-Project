@@ -1,0 +1,10 @@
+people
+3
+name String
+age Int
+money Fractional
+4
+gosho 20 20.00
+pesho 21 21.00
+tosho 22 22.00
+gosho 22 20.00
